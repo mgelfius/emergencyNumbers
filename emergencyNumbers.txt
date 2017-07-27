@@ -1,0 +1,2495 @@
+
+			<td>Birmingham PD</td>
+			<td>Birmingham, Alabama</td>
+			<td>205-328-9311</td>
+		
+
+			<td>Montgomery PD</td>
+			<td>Montgomery, Alabama</td>
+			<td>334-241-2651</td>
+		
+
+			<td>Mobile PD</td>
+			<td>Mobile, Alabama</td>
+			<td>251-208-7211</td>
+		
+
+			<td>Huntsville PD</td>
+			<td>Huntsville, Alabama</td>
+			<td>256-722-7100</td>
+		
+
+			<td>Tuscaloosa PD</td>
+			<td>Tuscaloosa, Alabama</td>
+			<td>205-349-2121</td>
+		
+
+			<td>Dothan PD</td>
+			<td>Dothan, Alabama</td>
+			<td>334-615-3000</td>
+		
+
+			<td>Auburn PD</td>
+			<td>Auburn, Alabama</td>
+			<td>334-501-3100</td>
+		
+
+			<td>Gadsden PD</td>
+			<td>Gadsden, Alabama</td>
+			<td>256-549-4500</td>
+		
+
+			<td>Prattville PD</td>
+			<td>Prattville, Alabama</td>
+			<td>334-595-0208</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Anchorage PD</td>
+			<td>Anchorage, Alaska</td>
+			<td>907-786-8900</td>
+		
+
+			<td>Juneau PD</td>
+			<td>Juneau, Alaska</td>
+			<td>907-586-0600</td>
+		
+
+			<td>Fairbanks PD</td>
+			<td>Fairbanks, Alaska</td>
+			<td>907-450-6500</td>
+		
+
+			<td>Sitka PD</td>
+			<td>Sitka, Alaska</td>
+			<td>907-747-3245</td>
+		
+
+			<td>Wasilla PD</td>
+			<td>Wasilla, Alaska</td>
+			<td>907-352-5401</td>
+		
+
+			<td>Ketchikan PD</td>
+			<td>Ketchikan, Alaska</td>
+			<td>907-225-6631</td>
+		
+
+			<td>Kenai PD</td>
+			<td>Kenai, Alaska</td>
+			<td>907-283-7879</td>
+		
+
+			<td>Kodiak PD</td>
+			<td>Kodiak, Alaska</td>
+			<td>907-486-8000</td>
+		
+
+			<td>Homer PD</td>
+			<td>Homer, Alaska</td>
+			<td>907-235-3150</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Phoenix PD</td>
+			<td>Phoenix, Arizona</td>
+			<td>602-262-6151</td>
+		
+
+			<td>Tucson PD</td>
+			<td>Tucson, Arizona</td>
+			<td>520-791-6813</td>
+		
+
+			<td>Mesa City PD</td>
+			<td>Mesa, Arizona</td>
+			<td>480-644-2211</td>
+		
+
+			<td>Chandler PD</td>
+			<td>Chandler, Arizona</td>
+			<td>480-782-4130</td>
+		
+
+			<td>Glendale PD</td>
+			<td>Glendale, Arizona</td>
+			<td>623-930-3000</td>
+		
+
+			<td>Scottsdale PD</td>
+			<td>Scottsdale, Arizona</td>
+			<td>480-312-5000</td>
+		
+
+			<td>Gilbert PD</td>
+			<td>Gilbert, Arizona</td>
+			<td>480-503-6500</td>
+		
+
+			<td>Tempe PD</td>
+			<td>Tempe, Arizona</td>
+			<td>480-350-8311</td>
+		
+
+			<td>Peoria PD</td>
+			<td>Peoria, Arizona</td>
+			<td>623-773-8311</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Little Rock PD</td>
+			<td>Little Rock, Arkansas</td>
+			<td>501-371-4829</td>
+		
+
+			<td>Fort Smith PD</td>
+			<td>Fort Smith, Arkansas</td>
+			<td>479-785-4221</td>
+		
+
+			<td>Fayetteville PD</td>
+			<td>Fayetteville, Arkansas</td>
+			<td>479-587-3555</td>
+		
+
+			<td>Springdale PD</td>
+			<td>Springdale, Arkansas</td>
+			<td>479-751-4542</td>
+		
+
+			<td>Jonesboro PD</td>
+			<td>Jonesboro, Arkansas</td>
+			<td>870-935-5562</td>
+		
+
+			<td>Rogers PD</td>
+			<td>Rogers, Arkansas</td>
+			<td>479-636-4141</td>
+		
+
+			<td>Conway PD</td>
+			<td>Conway, Arkansas</td>
+			<td>501-450-6120</td>
+		
+
+			<td>Pine Bluff PD</td>
+			<td>Pine Bluff, Arkansas</td>
+			<td>870-543-5100</td>
+		
+
+			<td>Bentonville PD</td>
+			<td>Bentonville, Arkansas</td>
+			<td>479-271-3170</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Los Angeles PD</td>
+			<td>Los Angeles, California</td>
+			<td>877-275-5273</td>
+		
+
+			<td>San Diego PD</td>
+			<td>San Diego, California</td>
+			<td>858-484-3154</td>
+		
+
+			<td>San Jose PD</td>
+			<td>San Jose, California</td>
+			<td>408-277-8900</td>
+		
+
+			<td>San Francisco PD</td>
+			<td>San Francisco, California</td>
+			<td>415-553-0123</td>
+		
+
+			<td>Fresno PD</td>
+			<td>Fresno, California</td>
+			<td>559-621-7000</td>
+		
+
+			<td>Sacramento PD</td>
+			<td>Sacramento, California</td>
+			<td>916-264-5471</td>
+		
+
+			<td>Long Beach PD</td>
+			<td>Long Beach, California</td>
+			<td>562-435-6711</td>
+		
+
+			<td>Oakland PD</td>
+			<td>Oakland, California</td>
+			<td>510-777-3333</td>
+		
+
+			<td>Bakersfield PD</td>
+			<td>Bakersfield, California</td>
+			<td>661-327-7111</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Denver PD</td>
+			<td>Denver, Colorado</td>
+			<td>720-913-2000</td>
+		
+
+			<td>Colorado Springs PD</td>
+			<td>Colorado Springs, Colorado</td>
+			<td>719-444-7000</td>
+		
+
+			<td>Aurora PD</td>
+			<td>Aurora, Colorado</td>
+			<td>630-256-5000</td>
+		
+
+			<td>Fort Collins PD</td>
+			<td>Fort Collins, Colorado</td>
+			<td>970-221-6540</td>
+		
+
+			<td>Lakewood PD</td>
+			<td>Lakewood, Colorado</td>
+			<td>303-987-7111</td>
+		
+
+			<td>Thornton PD</td>
+			<td>Thornton, Colorado</td>
+			<td>720-977-5150</td>
+		
+
+			<td>Arvada PD</td>
+			<td>Arvada, Colorado</td>
+			<td>720-898-6900</td>
+		
+
+			<td>Pueblo PD</td>
+			<td>Pueblo, Colorado</td>
+			<td>719-553-2502</td>
+		
+
+			<td>Arapahoe County Sheriff</td>
+			<td>Centennial, Colorado</td>
+			<td>303-795-4711</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Bridgeport PD</td>
+			<td>Bridgeport, Connecticut</td>
+			<td>203-576-7671</td>
+		
+
+			<td>New Haven PD</td>
+			<td>New Haven, Connecticut</td>
+			<td>203-946-6316</td>
+		
+
+			<td>Stamford PD</td>
+			<td>Stamford, Connecticut</td>
+			<td>203-977-4444</td>
+		
+
+			<td>Hartford PD</td>
+			<td>Hartford, Connecticut</td>
+			<td>860-757-4000</td>
+		
+
+			<td>Waterbury PD</td>
+			<td>Waterbury, Connecticut</td>
+			<td>203-574-6911</td>
+		
+
+			<td>Norwalk PD</td>
+			<td>Norwalk, Connecticut</td>
+			<td>203-854-3000</td>
+		
+
+			<td>Danbury PD</td>
+			<td>Danbury, Connecticut</td>
+			<td>203-797-4614</td>
+		
+
+			<td>New Britain PD</td>
+			<td>New Britain, Connecticut</td>
+			<td>860-826-3000</td>
+		
+
+			<td>Greenwich PD</td>
+			<td>Greenwich, Connecticut</td>
+			<td>203-622-8004</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Wilmington PD</td>
+			<td>Wilmington, Delaware</td>
+			<td>302-654-5151</td>
+		
+
+			<td>Dover PD</td>
+			<td>Dover, Delaware</td>
+			<td>302-736-7111</td>
+		
+
+			<td>Newark PD</td>
+			<td>Newark, Delaware</td>
+			<td>302-366-7111</td>
+		
+
+			<td>Middletown PD</td>
+			<td>Middletown, Delaware</td>
+			<td>302-573-2800</td>
+		
+
+			<td>Milford PD</td>
+			<td>Milford, Delaware</td>
+			<td>302-422-8081</td>
+		
+
+			<td>Smyrna PD</td>
+			<td>Smyrna, Delaware</td>
+			<td>302-653-3491</td>
+		
+
+			<td>Seaford PD</td>
+			<td>Seaford, Delaware</td>
+			<td>302-629-6644</td>
+		
+
+			<td>Georgetown PD</td>
+			<td>Georgetown, Delaware</td>
+			<td>302-856-6613</td>
+		
+
+			<td>Elsmere PD</td>
+			<td>Elsmere, Delaware</td>
+			<td>302-998-1173</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Jacksonville Sheriff</td>
+			<td>Jacksonville, Florida</td>
+			<td>904-630-0500</td>
+		
+
+			<td>Miami PD</td>
+			<td>Miami, Florida</td>
+			<td>305-579-6111</td>
+		
+
+			<td>Tampa PD</td>
+			<td>Tampa, Florida</td>
+			<td>813-231-6130</td>
+		
+
+			<td>Orlando PD</td>
+			<td>Orlando, Florida</td>
+			<td>321-235-5300</td>
+		
+
+			<td>St. Petersburg PD</td>
+			<td>St. Petersburg, Florida</td>
+			<td>727-893-7780</td>
+		
+
+			<td>Tallahassee PD</td>
+			<td>Tallahassee, Florida</td>
+			<td>850-606-5800</td>
+		
+
+			<td>Hialeah PD</td>
+			<td>Hialeah, Florida</td>
+			<td>305-687-2525</td>
+		
+
+			<td>Fort Lauderdale PD</td>
+			<td>Fort Lauderdale, Florida</td>
+			<td>954-764-4357</td>
+		
+
+			<td>Cape Coral PD</td>
+			<td>Cape Coral, Florida</td>
+			<td>239-574-3223</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Atlanta PD</td>
+			<td>Atlanta, Georgia</td>
+			<td>404-614-6544</td>
+		
+
+			<td>Richmond County Sheriff</td>
+			<td>Augusta, Georgia</td>
+			<td>706-821-1065</td>
+		
+
+			<td>Savannah-Chatham PD</td>
+			<td>Savannah, Georgia</td>
+			<td>912-652-6500</td>
+		
+
+			<td>Athens PD</td>
+			<td>Athens, Georgia</td>
+			<td>706-613-3345</td>
+		
+
+			<td>Sandy Springs PD</td>
+			<td>Sandy Springs, Georgia</td>
+			<td>770-551-6900</td>
+		
+
+			<td>Bibb County Sheriff</td>
+			<td>Macon, Georgia</td>
+			<td>478-751-7500</td>
+		
+
+			<td>Johns Creek PD</td>
+			<td>Johns Creek, Georgia</td>
+			<td>678-474-1600</td>
+		
+
+			<td>Warner Robins PD</td>
+			<td>Warner Robins, Georgia</td>
+			<td>478-302-5378</td>
+		
+
+			<td>Alpharetta PD</td>
+			<td>Alpharetta, Georgia</td>
+			<td>678-297-6300</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Honolulu, Hawaii</td>
+			<td>808-529-3111</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Pearl City, Hawaii</td>
+			<td>808-723-8800</td>
+		
+
+			<td>Hawaii PD</td>
+			<td>Hilo, Hawaii</td>
+			<td>808-935-3311</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Mililani, Hawaii</td>
+			<td>808-723-8710</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Waipahu, Hawaii</td>
+			<td>808-723-8805</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Kaneohe, Hawaii</td>
+			<td>808-723-8640</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Wahiawa, Hawaii</td>
+			<td>808-723-8700</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Kapolei, Hawaii</td>
+			<td>808-723-8400</td>
+		
+
+			<td>Honolulu PD</td>
+			<td>Waimalu, Hawaii</td>
+			<td>808-529-3111</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Boise PD</td>
+			<td>Boise, Idaho</td>
+			<td>208-377-6790</td>
+		
+
+			<td>Nampa PD</td>
+			<td>Nampa, Idaho</td>
+			<td>208-465-2257</td>
+		
+
+			<td>Meridian PD</td>
+			<td>Meridian, Idaho</td>
+			<td>208-888-6678</td>
+		
+
+			<td>Idaho Falls PD</td>
+			<td>Idaho Falls, Idaho</td>
+			<td>208-612-8616</td>
+		
+
+			<td>Pocatello PD</td>
+			<td>Pocatello, Idaho</td>
+			<td>208-234-6100</td>
+		
+
+			<td>Caldwell PD</td>
+			<td>Caldwell, Idaho</td>
+			<td>208-454-7531</td>
+		
+
+			<td>Twin Falls PD</td>
+			<td>Twin Falls, Idaho</td>
+			<td>208-735-4357</td>
+		
+
+			<td>Lewiston PD</td>
+			<td>Lewiston, Idaho</td>
+			<td>208-746-0171</td>
+		
+
+			<td>Post Falls PD</td>
+			<td>Post Falls, Idaho</td>
+			<td>208-773-3517</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Chicago PD</td>
+			<td>Chicago, Illinois</td>
+			<td>312-746-6000</td>
+		
+
+			<td>Aurora PD</td>
+			<td>Aurora, Illinois</td>
+			<td>630-256-5000</td>
+		
+
+			<td>Rockford PD</td>
+			<td>Rockford, Illinois</td>
+			<td>815-966-2900</td>
+		
+
+			<td>Joliet PD</td>
+			<td>Joliet, Illinois</td>
+			<td>815-726-2491</td>
+		
+
+			<td>Naperville PD</td>
+			<td>Naperville, Illinois</td>
+			<td>630-420-6666</td>
+		
+
+			<td>Springfield PD</td>
+			<td>Springfield, Illinois</td>
+			<td>217-788-8311</td>
+		
+
+			<td>Peoria PD</td>
+			<td>Peoria, Illinois</td>
+			<td>309-673-4521</td>
+		
+
+			<td>Elgin PD</td>
+			<td>Elgin, Illinois</td>
+			<td>847-289-2700</td>
+		
+
+			<td>Waukegan PD</td>
+			<td>Waukegan, Illinois</td>
+			<td>847-360-9000</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Indianapolis Metro PD</td>
+			<td>Indianapolis, Indiana</td>
+			<td>317-327-3811</td>
+		
+
+			<td>Fort Wayne PD</td>
+			<td>Fort Wayne, Indiana</td>
+			<td>260-427-1222</td>
+		
+
+			<td>Evansville PD</td>
+			<td>Evansville, Indiana</td>
+			<td>812-436-7896</td>
+		
+
+			<td>South Bend PD</td>
+			<td>South Bend, Indiana</td>
+			<td>574-235-9201</td>
+		
+
+			<td>Hammond PD</td>
+			<td>Hammond, Indiana</td>
+			<td>219-852-2900</td>
+		
+
+			<td>Bloomington PD</td>
+			<td>Bloomington, Indiana</td>
+			<td>812-339-4477</td>
+		
+
+			<td>Carmel PD</td>
+			<td>Carmel, Indiana</td>
+			<td>317-773-1282</td>
+		
+
+			<td>Gary PD</td>
+			<td>Gary, Indiana</td>
+			<td>219-660-0000</td>
+		
+
+			<td>Muncie PD</td>
+			<td>Muncie, Indiana</td>
+			<td>765-747-4838</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Des Moines PD</td>
+			<td>Des Moines, Iowa</td>
+			<td>515-283-4811</td>
+		
+
+			<td>Cedar Rapids PD</td>
+			<td>Cedar Rapids, Iowa</td>
+			<td>319-286-5491</td>
+		
+
+			<td>Davenport PD</td>
+			<td>Davenport, Iowa</td>
+			<td>563-326-7979</td>
+		
+
+			<td>Sioux City PD</td>
+			<td>Sioux City, Iowa</td>
+			<td>712-279-6960</td>
+		
+
+			<td>Iowa City PD</td>
+			<td>Iowa City, Iowa</td>
+			<td>319-356-5275</td>
+		
+
+			<td>Ames PD</td>
+			<td>Ames, Iowa</td>
+			<td>515-239-5133</td>
+		
+
+			<td>Council Bluffs PD</td>
+			<td>Council Bluffs, Iowa</td>
+			<td>712-328-4701</td>
+		
+
+			<td>Dubuque PD</td>
+			<td>Dubuque, Iowa</td>
+			<td>563-589-4415</td>
+		
+
+			<td>Waterloo PD</td>
+			<td>Waterloo, Iowa</td>
+			<td>319-291-2515</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Wichita PD</td>
+			<td>Wichita, Kansas</td>
+			<td>316-268-4111</td>
+		
+
+			<td>Overland Park PD</td>
+			<td>Overland Park, Kansas</td>
+			<td>913-895-6300</td>
+		
+
+			<td>Kansas City PD</td>
+			<td>Kansas City, Kansas</td>
+			<td>913-596-3000</td>
+		
+
+			<td>Olathe PD</td>
+			<td>Olathe, Kansas</td>
+			<td>913-782-0720</td>
+		
+
+			<td>Topeka PD</td>
+			<td>Topeka, Kansas</td>
+			<td>785-368-9551</td>
+		
+
+			<td>Lawrence PD</td>
+			<td>Lawrence, Kansas</td>
+			<td>785-832-7509</td>
+		
+
+			<td>Shawnee PD</td>
+			<td>Shawnee, Kansas</td>
+			<td>913-631-2150</td>
+		
+
+			<td>Lenexa PD</td>
+			<td>Lenexa, Kansas</td>
+			<td>913-477-7300</td>
+		
+
+			<td>Salina PD</td>
+			<td>Salina, Kansas</td>
+			<td>785-826-7210</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Lexington PD</td>
+			<td>Lexington, Kentucky</td>
+			<td>859-258-3600</td>
+		
+
+			<td>Louisville Metro PD</td>
+			<td>Lousiville, Kentucky</td>
+			<td>502-574-7111</td>
+		
+
+			<td>Bowling Green PD</td>
+			<td>Bowling Green, Kentucky</td>
+			<td>270-393-2473</td>
+		
+
+			<td>Owensboro PD</td>
+			<td>Owensboro, Kentucky</td>
+			<td>270-687-8888</td>
+		
+
+			<td>Covington PD</td>
+			<td>Covington, Kentucky</td>
+			<td>859-356-3191</td>
+		
+
+			<td>Hopkinsville PD</td>
+			<td>Hopkinsville, Kentucky</td>
+			<td>270-890-1300</td>
+		
+
+			<td>Elizabethtown PD</td>
+			<td>Elizabethtown, Kentucky</td>
+			<td>270-765-4125</td>
+		
+
+			<td>Henderson PD</td>
+			<td>Henderson, Kentucky</td>
+			<td>270-831-1295</td>
+		
+
+			<td>Nicholasville PD</td>
+			<td>Nicholasville, Kentucky</td>
+			<td>859-885-9467</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>New Orleans PD</td>
+			<td>New Orleans, Louisiana</td>
+			<td>504-821-2222</td>
+		
+
+			<td>Baton Rouge PD</td>
+			<td>Baton Rouge, Louisiana</td>
+			<td>225-389-2000</td>
+		
+
+			<td>Shreveport PD</td>
+			<td>Shreveport, Louisiana</td>
+			<td>318-673-7300</td>
+		
+
+			<td>Lafayette PD</td>
+			<td>Lafayette, Louisiana</td>
+			<td>337-291-8600</td>
+		
+
+			<td>Lake Charles PD</td>
+			<td>Lake Charles, Louisiana</td>
+			<td>337-491-1456</td>
+		
+
+			<td>Kenner PD</td>
+			<td>Kenner, Louisiana</td>
+			<td>504-712-2222</td>
+		
+
+			<td>Bossier City PD</td>
+			<td>Bossier City, Louisiana</td>
+			<td>318-741-8611</td>
+		
+
+			<td>Alexandria PD</td>
+			<td>Alexandria, Louisiana</td>
+			<td>318-449-5099</td>
+		
+
+			<td>Houma PD</td>
+			<td>Houma, Louisiana</td>
+			<td>985-873-6306</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Portland PD</td>
+			<td>Portland, Maine</td>
+			<td>207-874-8575</td>
+		
+
+			<td>Lewiston PD</td>
+			<td>Lewiston, Maine</td>
+			<td>207-784-6421</td>
+		
+
+			<td>Bangor PD</td>
+			<td>Bangor, Maine</td>
+			<td>207-947-7382</td>
+		
+
+			<td>South Portland PD</td>
+			<td>South Portland, Maine</td>
+			<td>207-874-8575</td>
+		
+
+			<td>Biddeford PD</td>
+			<td>Biddeford, Maine</td>
+			<td>207-282-5127</td>
+		
+
+			<td>Saco PD</td>
+			<td>Saco, Maine</td>
+			<td>207-282-8214</td>
+		
+
+			<td>Augusta PD</td>
+			<td>Augusta, Maine</td>
+			<td>207-626-2370</td>
+		
+
+			<td>Windham PD</td>
+			<td>Windham, Maine</td>
+			<td>207-892-2525</td>
+		
+
+			<td>Gorham PD</td>
+			<td>Gorham, Maine</td>
+			<td>207-839-5581</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Baltimore County PD</td>
+			<td>Baltimore, Maryland</td>
+			<td>410-887-2222</td>
+		
+
+			<td>Frederick PD</td>
+			<td>Frederick, Maryland</td>
+			<td>301-600-2100</td>
+		
+
+			<td>Rockville PD</td>
+			<td>Rockville, Maryland</td>
+			<td>240-314-8900</td>
+		
+
+			<td>Gaithersburg PD</td>
+			<td>Gaithersburg, Maryland</td>
+			<td>301-279-8000</td>
+		
+
+			<td>Montgomery County PD</td>
+			<td>Silver Spring, Maryland</td>
+			<td>240-773-6800</td>
+		
+
+			<td>Bowie PD</td>
+			<td>Bowie, Maryland</td>
+			<td>240-544-5700</td>
+		
+
+			<td>Hagerstown PD</td>
+			<td>Hagerstown, Maryland</td>
+			<td>301-739-8577</td>
+		
+
+			<td>Annapolis PD</td>
+			<td>Annapolis, Maryland</td>
+			<td>410-268-4141</td>
+		
+
+			<td>University of Maryland PD</td>
+			<td>College Park, Maryland</td>
+			<td>301-405-3555</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Boston PD</td>
+			<td>Boston, Massachusetts</td>
+			<td>617-343-4200</td>
+		
+
+			<td>Worcester PD</td>
+			<td>Worcester, Massachusetts</td>
+			<td>508-799-8600</td>
+		
+
+			<td>Springfield PD</td>
+			<td>Springfield, Massachusetts</td>
+			<td>413-787-6302</td>
+		
+
+			<td>Lowell PD</td>
+			<td>Lowell, Massachusetts</td>
+			<td>978-937-3200</td>
+		
+
+			<td>Cambridge PD</td>
+			<td>Cambridge, Massachusetts</td>
+			<td>617-349-3300</td>
+		
+
+			<td>New Bedford PD</td>
+			<td>New Bedford, Massachusetts</td>
+			<td>508-991-6300</td>
+		
+
+			<td>Brockton PD</td>
+			<td>Brockton, Massachusetts</td>
+			<td>508-941-0200</td>
+		
+
+			<td>Quincy PD</td>
+			<td>Quincy, Massachusetts</td>
+			<td>617-479-1212</td>
+		
+
+			<td>Lynn PD</td>
+			<td>Lynn, Massachusetts</td>
+			<td>781-595-2000</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Detroit PD</td>
+			<td>Detroit, Michigan</td>
+			<td>313-267-4600</td>
+		
+
+			<td>Grand Rapids PD</td>
+			<td>Grand Rapids, Michigan</td>
+			<td>616-456-3400</td>
+		
+
+			<td>Sterling Heights PD</td>
+			<td>Sterling Heights, Michigan</td>
+			<td>586-446-2800</td>
+		
+
+			<td>Ann Arbor PD</td>
+			<td>Ann Arbor, Michigan</td>
+			<td>734-994-2911</td>
+		
+
+			<td>Lansing PD</td>
+			<td>Lansing, Michigan</td>
+			<td>517-483-4680</td>
+		
+
+			<td>Dearborn PD</td>
+			<td>Dearborn, Michigan</td>
+			<td>313-943-2242</td>
+		
+
+			<td>Flint PD</td>
+			<td>Flint, Michigan</td>
+			<td>810-237-6800</td>
+		
+
+			<td>Livonia PD</td>
+			<td>Livonia, Michigan</td>
+			<td>734-466-2400</td>
+		
+
+			<td>Westland PD</td>
+			<td>Westland, Michigan</td>
+			<td>734-722-9600</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Minneapolis PD</td>
+			<td>Minneapolis, Minnesota</td>
+			<td>612-348-2345</td>
+		
+
+			<td>Saint Paul PD</td>
+			<td>Saint Paul, Minnesota</td>
+			<td>651-291-1111</td>
+		
+
+			<td>Rochester PD</td>
+			<td>Rochester, Minnesota</td>
+			<td>507-328-6800</td>
+		
+
+			<td>Duluth PD</td>
+			<td>Duluth, Minnesota</td>
+			<td>218-625-3581</td>
+		
+
+			<td>Bloomington PD</td>
+			<td>Bloomington, Minnesota</td>
+			<td>952-563-4900</td>
+		
+
+			<td>Brooklyn Park PD</td>
+			<td>Brooklyn Park, Minnesota</td>
+			<td>763-493-8222</td>
+		
+
+			<td>St. Cloud PD</td>
+			<td>St. Cloud, Minnesota</td>
+			<td>407-891-6700</td>
+		
+
+			<td>Eagan PD</td>
+			<td>Eagan, Minnesota</td>
+			<td>651-675-5700</td>
+		
+
+			<td>Eden Prairie PD</td>
+			<td>Eden Prairie, Minnesota</td>
+			<td>952-949-6200</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Jackson PD</td>
+			<td>Jackson, Mississippi</td>
+			<td>601-960-1234</td>
+		
+
+			<td>Gulfport PD</td>
+			<td>Gulfport, Mississippi</td>
+			<td>228-868-5959</td>
+		
+
+			<td>Southaven PD</td>
+			<td>Southaven, Mississippi</td>
+			<td>662-393-8652</td>
+		
+
+			<td>Hattiesburg PD</td>
+			<td>Hattiesburg, Mississippi</td>
+			<td>601-545-4910</td>
+		
+
+			<td>Biloxi PD</td>
+			<td>Biloxi, Mississippi</td>
+			<td>228-392-0641</td>
+		
+
+			<td>Tupelo PD</td>
+			<td>Tupelo, Mississippi</td>
+			<td>662-841-6491</td>
+		
+
+			<td>Meridian PD</td>
+			<td>Meridian, Mississippi</td>
+			<td>601-485-1960</td>
+		
+
+			<td>Olive Branch PD</td>
+			<td>Olive Branch, Mississippi</td>
+			<td>662-895-4111</td>
+		
+
+			<td>Pearl PD</td>
+			<td>Pearl, Mississippi</td>
+			<td>601-939-7000</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Kansas City PD</td>
+			<td>Kansas City, Missouri</td>
+			<td>816-234-5111</td>
+		
+
+			<td>St. Louis PD</td>
+			<td>St. Louis, Missouri</td>
+			<td>314-231-1212</td>
+		
+
+			<td>Springfield PD</td>
+			<td>Springfield, Missouri</td>
+			<td>417-864-1810</td>
+		
+
+			<td>Independence PD</td>
+			<td>Independence, Missouri</td>
+			<td>816-325-7300</td>
+		
+
+			<td>Columbia PD</td>
+			<td>Columbia, Missouri</td>
+			<td>573-442-6131</td>
+		
+
+			<td>Lee's Summit PD</td>
+			<td>Lee's Summit, Missouri</td>
+			<td>816-969-7390</td>
+		
+
+			<td>O'Fallon PD</td>
+			<td>O'Fallon, Missouri</td>
+			<td>636-240-3200</td>
+		
+
+			<td>Saint Joseph PD</td>
+			<td>Saint Joseph, Missouri</td>
+			<td>816-271-4777</td>
+		
+
+			<td>Saint Charles PD</td>
+			<td>Saint Charles, Missouri</td>
+			<td>636-949-3300</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Billings PD</td>
+			<td>Billings, Montana</td>
+			<td>406-657-8200</td>
+		
+
+			<td>Missoula PD</td>
+			<td>Missoula, Montana</td>
+			<td>406-552-6300</td>
+		
+
+			<td>Great Falls PD</td>
+			<td>Great Falls, Montana</td>
+			<td>406-727-7688</td>
+		
+
+			<td>Bozeman PD</td>
+			<td>Bozeman, Montana</td>
+			<td>406-582-2000</td>
+		
+
+			<td>Butte PD</td>
+			<td>Butte, Montana</td>
+			<td>406-497-6200</td>
+		
+
+			<td>Helena PD</td>
+			<td>Helena, Montana</td>
+			<td>406-447-8461</td>
+		
+
+			<td>Kalispell PD</td>
+			<td>Kalispell, Montana</td>
+			<td>406-758-7780</td>
+		
+
+			<td>Havre PD</td>
+			<td>Havre, Montana</td>
+			<td>406-265-4361</td>
+		
+
+			<td>Anaconda PD</td>
+			<td>Anaconda, Montana</td>
+			<td>406-563-5241</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Omaha PD</td>
+			<td>Omaha, Nebraska</td>
+			<td>402-444-5600</td>
+		
+
+			<td>Lincoln PD</td>
+			<td>Lincoln, Nebraska</td>
+			<td>402-441-6000</td>
+		
+
+			<td>Grand Island PD</td>
+			<td>Grand Island, Nebraska</td>
+			<td>308-385-5400</td>
+		
+
+			<td>Kearney PD</td>
+			<td>Kearney, Nebraska</td>
+			<td>308-237-2104</td>
+		
+
+			<td>Fremont PD</td>
+			<td>Fremont, Nebraska</td>
+			<td>402-727-2677</td>
+		
+
+			<td>Hastings PD</td>
+			<td>Hastings, Nebraska</td>
+			<td>402-461-2380</td>
+		
+
+			<td>North Platte PD</td>
+			<td>North Platte, Nebraska</td>
+			<td>308-535-6789</td>
+		
+
+			<td>Papillion PD</td>
+			<td>Papillion, Nebraska</td>
+			<td>402-597-2035</td>
+		
+
+			<td>La Vista PD</td>
+			<td>La Vista, Nebraska</td>
+			<td>402-331-1582</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Las Vegas Metro PD</td>
+			<td>Las Vegas, Nevada</td>
+			<td>702-828-3111</td>
+		
+
+			<td>Henderson PD</td>
+			<td>Henderson, Nevada</td>
+			<td>702-267-5000</td>
+		
+
+			<td>Reno PD</td>
+			<td>Reno, Nevada</td>
+			<td>775-334-2677</td>
+		
+
+			<td>Sparks PD</td>
+			<td>Sparks, Nevada</td>
+			<td>775-353-2231</td>
+		
+
+			<td>Carson City PD</td>
+			<td>Carson City, Nevada</td>
+			<td>775-887-2677</td>
+		
+
+			<td>Nye County Sheriff</td>
+			<td>Pahrump, Nevada</td>
+			<td>775-553-2345</td>
+		
+
+			<td>Churchill County Sheriff</td>
+			<td>Fallon, Nevada</td>
+			<td>775-423-3116</td>
+		
+
+			<td>Elko PD</td>
+			<td>Elko, Nevada</td>
+			<td>775-777-7300</td>
+		
+
+			<td>Fernley PD</td>
+			<td>Fernley, Nevada</td>
+			<td>775-577-5023</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Manchester PD</td>
+			<td>Manchester, New Hampshire</td>
+			<td>603-668-8711</td>
+		
+
+			<td>Nashua PD</td>
+			<td>Nashua, New Hampshire</td>
+			<td>603-594-3500</td>
+		
+
+			<td>Concord PD</td>
+			<td>Concord, New Hampshire</td>
+			<td>603-225-8600</td>
+		
+
+			<td>Derry PD</td>
+			<td>Derry, New Hampshire</td>
+			<td>603-432-6111</td>
+		
+
+			<td>Merrimack PD</td>
+			<td>Merrimack, New Hampshire</td>
+			<td>603-424-3774</td>
+		
+
+			<td>Rochester PD</td>
+			<td>Rochester, New Hampshire</td>
+			<td>603-330-7127</td>
+		
+
+			<td>Londonderry PD</td>
+			<td>Londonderry, New Hampshire</td>
+			<td>603-432-1118</td>
+		
+
+			<td>Keene PD</td>
+			<td>Keene, New Hampshire</td>
+			<td>603-357-9815</td>
+		
+
+			<td>Portsmouth PD</td>
+			<td>Portsmouth, New Hampshire</td>
+			<td>603-427-1500</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Newark PD</td>
+			<td>Newark, New Jersey</td>
+			<td>973-733-6000</td>
+		
+
+			<td>Jersey City PD</td>
+			<td>Jersey City, New Jersey</td>
+			<td>201-547-5477</td>
+		
+
+			<td>Paterson PD</td>
+			<td>Paterson, New Jersey</td>
+			<td>973-321-1111</td>
+		
+
+			<td>Elizabeth PD</td>
+			<td>Elizabeth, New Jersey</td>
+			<td>908-558-2000</td>
+		
+
+			<td>Woodbridge PD</td>
+			<td>Woodbridge, New Jersey</td>
+			<td>732-634-7700</td>
+		
+
+			<td>Trenton PD</td>
+			<td>Trenton, New Jersey</td>
+			<td>609-989-4000</td>
+		
+
+			<td>Clifton PD</td>
+			<td>Clifton, New Jersey</td>
+			<td>973-470-5911</td>
+		
+
+			<td>Camden County PD</td>
+			<td>Camden, New Jersey</td>
+			<td>856-757-7474</td>
+		
+
+			<td>Cherry Hill PD</td>
+			<td>Cherry Hill, New Jersey</td>
+			<td>856-665-1200</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Albuquerque PD</td>
+			<td>Albuquerque, New Mexico</td>
+			<td>505-242-2677</td>
+		
+
+			<td>Las Cruces PD</td>
+			<td>Las Cruces, New Mexico</td>
+			<td>575-526-0795</td>
+		
+
+			<td>Rio Rancho PD</td>
+			<td>Rio Rancho, New Mexico</td>
+			<td>505-891-7226</td>
+		
+
+			<td>Sante Fe PD</td>
+			<td>Sante Fe, New Mexico</td>
+			<td>505-428-3710</td>
+		
+
+			<td>Roswell PD</td>
+			<td>Roswell, New Mexico</td>
+			<td>575-624-6770</td>
+		
+
+			<td>Farmington PD</td>
+			<td>Farmington, New Mexico</td>
+			<td>505-334-6622</td>
+		
+
+			<td>Hobbs PD</td>
+			<td>Hobbs, New Mexico</td>
+			<td>575-397-9265</td>
+		
+
+			<td>Alamogordo PD</td>
+			<td>Alamogordo, New Mexico</td>
+			<td>575-439-4300</td>
+		
+
+			<td>Carlsbad PD</td>
+			<td>Carlsbad, New Mexico</td>
+			<td>575-885-2111</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>New York City PD</td>
+			<td>New York City, New York</td>
+			<td>212-477-9218</td>
+		
+
+			<td>Buffalo PD</td>
+			<td>Buffalo, New York</td>
+			<td>716-851-4444</td>
+		
+
+			<td>Rochester PD</td>
+			<td>Rochester, New York</td>
+			<td>585-428-5990</td>
+		
+
+			<td>Yonkers PD</td>
+			<td>Yonkers, New York</td>
+			<td>914-377-7900</td>
+		
+
+			<td>Syracuse PD</td>
+			<td>Syracuse, New York</td>
+			<td>315-442-5151</td>
+		
+
+			<td>Albany PD</td>
+			<td>Albany, New York</td>
+			<td>518-438-4000</td>
+		
+
+			<td>Huntington Bay PD</td>
+			<td>Huntington, New York</td>
+			<td>631-427-2020</td>
+		
+
+			<td>Suffolk County PD</td>
+			<td>Smithtown, New York</td>
+			<td>631-852-2677</td>
+		
+
+			<td>New Rochelle PD</td>
+			<td>New Rochelle, New York</td>
+			<td>914-654-2300</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Charlotte PD</td>
+			<td>Charlotte, North Carolina</td>
+			<td>704-353-1000</td>
+		
+
+			<td>Raleigh PD</td>
+			<td>Raleigh, North Carolina</td>
+			<td>919-831-6311</td>
+		
+
+			<td>Greensboro PD</td>
+			<td>Greensboro, North Carolina</td>
+			<td>363-373-2222</td>
+		
+
+			<td>Durham PD</td>
+			<td>Durham, North Carolina</td>
+			<td>919-560-4600</td>
+		
+
+			<td>Winston-Salem PD</td>
+			<td>Winston-Salem, North Carolina</td>
+			<td>336-773-7700</td>
+		
+
+			<td>Fayetteville PD</td>
+			<td>Fayetteville, North Carolina</td>
+			<td>910-433-1529</td>
+		
+
+			<td>Cary PD</td>
+			<td>Cary, North Carolina</td>
+			<td>919-469-4012</td>
+		
+
+			<td>Wilmington PD</td>
+			<td>Wilmington, North Carolina</td>
+			<td>910-452-6120</td>
+		
+
+			<td>High Point PD</td>
+			<td>High Point, North Carolina</td>
+			<td>336-883-3224</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Fargo PD</td>
+			<td>Fargo, North Dakota</td>
+			<td>701-235-4493</td>
+		
+
+			<td>Bismarck PD</td>
+			<td>Bismarck, North Dakota</td>
+			<td>701-223-1212</td>
+		
+
+			<td>Grand Forks PD</td>
+			<td>Grand Forks, North Dakota</td>
+			<td>701-787-8000</td>
+		
+
+			<td>Minot PD</td>
+			<td>Minot, North Dakota</td>
+			<td>701-852-0111</td>
+		
+
+			<td>Williston PD</td>
+			<td>Williston, North Dakota</td>
+			<td>701-577-1212</td>
+		
+
+			<td>Mandan PD</td>
+			<td>Mandan, North Dakota</td>
+			<td>701-667-3250</td>
+		
+
+			<td>Jamestown PD</td>
+			<td>Jamestown, North Dakota</td>
+			<td>701-252-1000</td>
+		
+
+			<td>Wahpeton PD</td>
+			<td>Wahpeton, North Dakota</td>
+			<td>701-642-7722</td>
+		
+
+			<td>West Fargo PD</td>
+			<td>West Fargo, North Dakota</td>
+			<td>701-433-5500</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Columbus PD</td>
+			<td>Columbus, Ohio</td>
+			<td>614-645-4545</td>
+		
+
+			<td>Cleveland PD</td>
+			<td>Cleveland, Ohio</td>
+			<td>216-621-1234</td>
+		
+
+			<td>Cincinnati PD</td>
+			<td>Cincinnati, Ohio</td>
+			<td>513-765-1212</td>
+		
+
+			<td>Toledo PD</td>
+			<td>Toledo, Ohio</td>
+			<td>419-245-3340</td>
+		
+
+			<td>Akron PD</td>
+			<td>Akron, Ohio</td>
+			<td>330-375-2552</td>
+		
+
+			<td>Dayton PD</td>
+			<td>Dayton, Ohio</td>
+			<td>937-333-2677</td>
+		
+
+			<td>Youngstown PD</td>
+			<td>Youngstown, Ohio</td>
+			<td>330-747-7911</td>
+		
+
+			<td>Lorain PD</td>
+			<td>Lorain, Ohio</td>
+			<td>440-204-2100</td>
+		
+
+			<td>Elyria PD</td>
+			<td>Elyria, Ohio</td>
+			<td>440-323-3302</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Oklahoma City PD</td>
+			<td>Oklahoma City, Oklahoma</td>
+			<td>405-231-2121</td>
+		
+
+			<td>Tulsa PD</td>
+			<td>Tulsa, Oklahoma</td>
+			<td>918-596-9222</td>
+		
+
+			<td>Norman PD</td>
+			<td>Norman, Oklahoma</td>
+			<td>405-321-1444</td>
+		
+
+			<td>Broken Arrow PD</td>
+			<td>Broken Arrow, Oklahoma</td>
+			<td>918-259-8400</td>
+		
+
+			<td>Lawton PD</td>
+			<td>Lawton, Oklahoma</td>
+			<td>580-581-3271</td>
+		
+
+			<td>Edmond PD</td>
+			<td>Edmond, Oklahoma</td>
+			<td>405-359-4338</td>
+		
+
+			<td>Moore Pd</td>
+			<td>Moore, Oklahoma</td>
+			<td>405-793-5171</td>
+		
+
+			<td>Enid PD</td>
+			<td>Enid, Oklahoma</td>
+			<td>580-242-7000</td>
+		
+
+			<td>Stillwater PD</td>
+			<td>Stillwater, Oklahoma</td>
+			<td>405-742-8298</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Portland PD</td>
+			<td>Portland, Oregon</td>
+			<td>503-823-3333</td>
+		
+
+			<td>Salem PD</td>
+			<td>Salem, Oregon</td>
+			<td>503-588-6123</td>
+		
+
+			<td>Eugene PD</td>
+			<td>Eugene, Oregon</td>
+			<td>541-682-5111</td>
+		
+
+			<td>Gresham PD</td>
+			<td>Gresham, Oregon</td>
+			<td>503-823-3333</td>
+		
+
+			<td>Hillsboro PD</td>
+			<td>Hillsboro, Oregon</td>
+			<td>503-629-0111</td>
+		
+
+			<td>Beaverton PD</td>
+			<td>Beaverton, Oregon</td>
+			<td>503-629-0111</td>
+		
+
+			<td>Bend PD</td>
+			<td>Bend, Oregon</td>
+			<td>541-693-6911</td>
+		
+
+			<td>Medford PD</td>
+			<td>Medford, Oregon</td>
+			<td>541-774-2250</td>
+		
+
+			<td>Corvallis PD</td>
+			<td>Corvallis, Oregon</td>
+			<td>541-766-6924</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Philadelphia PD</td>
+			<td>Philadelphia, Pennsylvania</td>
+			<td>215-686-8477</td>
+		
+
+			<td>Pittsburgh PD</td>
+			<td>Pittsburgh, Pennsylvania</td>
+			<td>412-255-2621</td>
+		
+
+			<td>Allentown PD</td>
+			<td>Allentown, Pennsylvania</td>
+			<td>610-437-7751</td>
+		
+
+			<td>Erie PD</td>
+			<td>Erie, Pennsylvania</td>
+			<td>814-870-1125</td>
+		
+
+			<td>Reading PD</td>
+			<td>Reading, Pennsylvania</td>
+			<td>610-655-6111</td>
+		
+
+			<td>Scranton PD</td>
+			<td>Scranton, Pennsylvania</td>
+			<td>570-348-4141</td>
+		
+
+			<td>Lancaster PD</td>
+			<td>Lancaster, Pennsylvania</td>
+			<td>717-664-1180</td>
+		
+
+			<td>Harrisburg PD</td>
+			<td>Harrisburg, Pennsylvania</td>
+			<td>717-558-6900</td>
+		
+
+			<td>Haverford PD</td>
+			<td>Haverford, Pennsylvania</td>
+			<td>610-853-1298</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Providence PD</td>
+			<td>Providence, Rhode Island</td>
+			<td>401-272-3121</td>
+		
+
+			<td>Warwick PD</td>
+			<td>Warwick, Rhode Island</td>
+			<td>401-468-4200</td>
+		
+
+			<td>Cranston PD</td>
+			<td>Cranston, Rhode Island</td>
+			<td>401-942-2211</td>
+		
+
+			<td>Pawtucket PD</td>
+			<td>Pawtucket, Rhode Island</td>
+			<td>401-727-9100</td>
+		
+
+			<td>East Providence PD</td>
+			<td>East Providence, Rhode Island</td>
+			<td>401-435-7600</td>
+		
+
+			<td>Woonsocket PD</td>
+			<td>Woonsocket, Rhode Island</td>
+			<td>401-766-1212</td>
+		
+
+			<td>Coventry PD</td>
+			<td>Coventry, Rhode Island</td>
+			<td>401-826-1100</td>
+		
+
+			<td>Cumberland PD</td>
+			<td>Cumberland, Rhode Island</td>
+			<td>401-333-2500</td>
+		
+
+			<td>Middletown PD</td>
+			<td>Middletown, Rhode Island</td>
+			<td>401-846-1144</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Columbia PD</td>
+			<td>Columbia, South Carolina</td>
+			<td>803-252-2911</td>
+		
+
+			<td>Charleston PD</td>
+			<td>Charleston, South Carolina</td>
+			<td>843-743-7200</td>
+		
+
+			<td>Mount Pleasant PD</td>
+			<td>Mount Pleasant, South Carolina</td>
+			<td>843-884-4176</td>
+		
+
+			<td>Rock Hill PD</td>
+			<td>Rock Hill, South Carolina</td>
+			<td>803-329-5500</td>
+		
+
+			<td>Greenville PD</td>
+			<td>Greenville, South Carolina</td>
+			<td>864-271-5333</td>
+		
+
+			<td>Summerville PD</td>
+			<td>Summerville, South Carolina</td>
+			<td>843-875-1650</td>
+		
+
+			<td>Sumter PD</td>
+			<td>Sumter, South Carolina</td>
+			<td>803-436-2770</td>
+		
+
+			<td>Goose Creek PD</td>
+			<td>Goose Creek, South Carolina</td>
+			<td>(843) 572-4300</td>
+		
+
+			<td>Florence PD</td>
+			<td>Florence, South Carolina</td>
+			<td>843-665-3191</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Sioux Falls PD</td>
+			<td>Sioux Falls, South Dakota</td>
+			<td>605-367-7000</td>
+		
+
+			<td>Rapid City PD</td>
+			<td>Rapid City, South Dakota</td>
+			<td>605-394-4131</td>
+		
+
+			<td>Aberdeen PD</td>
+			<td>Aberdeen, South Dakota</td>
+			<td>605-626-7911</td>
+		
+
+			<td>Brookings PD</td>
+			<td>Brookings, South Dakota</td>
+			<td>605-692-2113</td>
+		
+
+			<td>Watertown PD</td>
+			<td>Watertown, South Dakota</td>
+			<td>605-882-6210</td>
+		
+
+			<td>Mitchell PD</td>
+			<td>Mitchell, South Dakota</td>
+			<td>605-995-8486</td>
+		
+
+			<td>Yankton PD</td>
+			<td>Yankton, South Dakota</td>
+			<td>605-668-5210</td>
+		
+
+			<td>Pierre PD</td>
+			<td>Pierre, South Dakota</td>
+			<td>605-773-7410</td>
+		
+
+			<td>Huron PD</td>
+			<td>Huron, South Dakota</td>
+			<td>605-353-8550</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Nashville PD</td>
+			<td>Nashville, Tennessee</td>
+			<td>615-862-8600</td>
+		
+
+			<td>Memphis PD</td>
+			<td>Memphis, Tennessee</td>
+			<td>901-545-2677</td>
+		
+
+			<td>Knoxville PD</td>
+			<td>Knoxville, Tennessee</td>
+			<td>865-215-7268</td>
+		
+
+			<td>Chattanooga PD</td>
+			<td>Chattanooga, Tennessee</td>
+			<td>423-698-2525</td>
+		
+
+			<td>Clarksville PD</td>
+			<td>Clarksville, Tennessee</td>
+			<td>931-552-1011</td>
+		
+
+			<td>Murfreesboro PD</td>
+			<td>Murfreesboro, Tennessee</td>
+			<td>615-849-2670</td>
+		
+
+			<td>Jackson PD</td>
+			<td>Jackson, Tennessee</td>
+			<td>731-425-8630</td>
+		
+
+			<td>Johnson City PD</td>
+			<td>Johnson City, Tennessee</td>
+			<td>423-434-6160</td>
+		
+
+			<td>Bartlett PD</td>
+			<td>Bartlett, Tennessee</td>
+			<td>901-385-5555</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Houston PD</td>
+			<td>Houston, Texas</td>
+			<td>713-884-3131</td>
+		
+
+			<td>San Antonio PD</td>
+			<td>San Antonio, Texas</td>
+			<td>210-207-7273</td>
+		
+
+			<td>Dallas PD</td>
+			<td>Dallas, Texas</td>
+			<td>214-744-4444</td>
+		
+
+			<td>Austin PD</td>
+			<td>Austin, Texas</td>
+			<td>512-974-2000</td>
+		
+
+			<td>Fort Worth PD</td>
+			<td>Fort Worth, Texas</td>
+			<td>817-335-4222</td>
+		
+
+			<td>El Paso PD</td>
+			<td>El Paso, Texas</td>
+			<td>915-832-4400</td>
+		
+
+			<td>Arlington PD</td>
+			<td>Arlington, Texas</td>
+			<td>817-274-4444</td>
+		
+
+			<td>Corpus Christi PD</td>
+			<td>Corpus Christi, Texas</td>
+			<td>361-886-2600</td>
+		
+
+			<td>Plano PD</td>
+			<td>Plano, Texas</td>
+			<td>972-424-5678</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Salt Lake City PD</td>
+			<td>Salt Lake City, Utah</td>
+			<td>801-799-3000</td>
+		
+
+			<td>West Valley City PD</td>
+			<td>West Valley City, Utah</td>
+			<td>801-840-4000</td>
+		
+
+			<td>West Jordan PD</td>
+			<td>West Jordan, Utah</td>
+			<td>801-256-2000</td>
+		
+
+			<td>Orem PD</td>
+			<td>Orem, Utah</td>
+			<td>801-229-7070</td>
+		
+
+			<td>Ogden PD</td>
+			<td>Ogden, Utah</td>
+			<td>801-395-8221</td>
+		
+
+			<td>St. George PD</td>
+			<td>St. George, Utah</td>
+			<td>435-627-4300</td>
+		
+
+			<td>Layton PD</td>
+			<td>Layton, Utah</td>
+			<td>801-497-8300</td>
+		
+
+			<td>Taylorsville PD</td>
+			<td>Taylorsville, Utah</td>
+			<td>801-743-7000</td>
+		
+
+			<td>South Jordan</td>
+			<td>South Jordan, Utah</td>
+			<td>801-840-4000</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Burlington PD</td>
+			<td>Burlington, Vermont</td>
+			<td>802-658-2704</td>
+		
+
+			<td>Essex PD</td>
+			<td>Essex, Vermont</td>
+			<td>802-878-8331</td>
+		
+
+			<td>Colchester PD</td>
+			<td>Colchester, Vermont</td>
+			<td>802-264-5555</td>
+		
+
+			<td>Rutland PD</td>
+			<td>Rutland, Vermont</td>
+			<td>802-773-1816</td>
+		
+
+			<td>Bennington PD</td>
+			<td>Bennington, Vermont</td>
+			<td>802-442-1030</td>
+		
+
+			<td>Brattleboro PD</td>
+			<td>Brattleboro, Vermont</td>
+			<td>802-257-7950</td>
+		
+
+			<td>Barre PD</td>
+			<td>Barre, Vermont</td>
+			<td>802-476-6613</td>
+		
+
+			<td>Middlebury PD</td>
+			<td>Middlebury, Vermont</td>
+			<td>802-388-3191</td>
+		
+
+			<td>Montpelier PD</td>
+			<td>Montpelier, Vermont</td>
+			<td>802-223-3445</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Virginia Beach PD</td>
+			<td>Virginia Beach, Virginia</td>
+			<td>757-385-5000</td>
+		
+
+			<td>Norfolk PD</td>
+			<td>Norfolk, Virginia</td>
+			<td>757-441-5610</td>
+		
+
+			<td>Chesapeake PD</td>
+			<td>Chesapeake, Virginia</td>
+			<td>757-382-6161</td>
+		
+
+			<td>Arlington PD</td>
+			<td>Arlington, Virginia</td>
+			<td>703-558-2222</td>
+		
+
+			<td>Richmond PD</td>
+			<td>Richmond, Virginia</td>
+			<td>804-646-5100</td>
+		
+
+			<td>Newport News PD</td>
+			<td>Newport News, Virginia</td>
+			<td>757-247-2500</td>
+		
+
+			<td>Alexandria PD</td>
+			<td>Alexandria, Virginia</td>
+			<td>703-746-4444</td>
+		
+
+			<td>Hampton PD</td>
+			<td>Hampton, Virginia</td>
+			<td>757-727-6111</td>
+		
+
+			<td>Roanoke PD</td>
+			<td>Roanoke, Virginia</td>
+			<td>540-562-3265</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Seattle PD</td>
+			<td>Seattle, Washington</td>
+			<td>206-625-5011</td>
+		
+
+			<td>Spokane PD</td>
+			<td>Spokane, Washington</td>
+			<td>509-477-5980</td>
+		
+
+			<td>Tacoma PD</td>
+			<td>Tacoma, Washington</td>
+			<td>253-798-4721</td>
+		
+
+			<td>Vancouver PD</td>
+			<td>Vancouver, Washington</td>
+			<td>360-693-3111</td>
+		
+
+			<td>Bellevue PD</td>
+			<td>Bellevue, Washington</td>
+			<td>425-577-5656</td>
+		
+
+			<td>Everett PD</td>
+			<td>Everett, Washington</td>
+			<td>425-407-3999</td>
+		
+
+			<td>Renton PD</td>
+			<td>Renton, Washington</td>
+			<td>425-235-2121</td>
+		
+
+			<td>Yakima PD</td>
+			<td>Yakima, Washington</td>
+			<td>509-575-6200</td>
+		
+
+			<td>Federal Way PD</td>
+			<td>Federal Way, Washington</td>
+			<td>253-835-2121</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Charleston PD</td>
+			<td>Charleston, West Virginia</td>
+			<td>304-348-6460</td>
+		
+
+			<td>Huntington PD</td>
+			<td>Huntington, West Virginia</td>
+			<td>304-696-4470</td>
+		
+
+			<td>Parkersburg PD</td>
+			<td>Parkersburg, West Virginia</td>
+			<td>304-485-8501</td>
+		
+
+			<td>Morgantown PD</td>
+			<td>Morgantown, West Virginia</td>
+			<td>304-284-7522</td>
+		
+
+			<td>Wheeling PD</td>
+			<td>Wheeling, West Virginia</td>
+			<td>304-234-3661</td>
+		
+
+			<td>Weirton PD</td>
+			<td>Weirton, West Virginia</td>
+			<td>304-797-8500</td>
+		
+
+			<td>Martinsburg PD</td>
+			<td>Martinsburg, West Virginia</td>
+			<td>304-264-2100</td>
+		
+
+			<td>Beckley PD</td>
+			<td>Beckley, West Virginia</td>
+			<td>304-256-1700</td>
+		
+
+			<td>Clarksburg PD</td>
+			<td>Clarksburg, West Virginia</td>
+			<td>304-622-8416</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Milwaukee PD</td>
+			<td>Milwaukee, Wisconsin</td>
+			<td>414-933-4444</td>
+		
+
+			<td>Madison PD</td>
+			<td>Madison, Wisconsin</td>
+			<td>608-255-2345</td>
+		
+
+			<td>Green Bay PD</td>
+			<td>Green Bay, Wisconsin</td>
+			<td>920-391-7450</td>
+		
+
+			<td>Kenosha PD</td>
+			<td>Kenosha, Wisconsin</td>
+			<td>262-656-1234</td>
+		
+
+			<td>Racine PD</td>
+			<td>Racine, Wisconsin</td>
+			<td>262-886-2300</td>
+		
+
+			<td>Appleton PD</td>
+			<td>Appleton, Wisconsin</td>
+			<td>920-832-5500</td>
+		
+
+			<td>Waukesha PD</td>
+			<td>Waukesha, Wisconsin</td>
+			<td>262-524-3831</td>
+		
+
+			<td>Eau Claire PD</td>
+			<td>Eau Claire, Wisconsin</td>
+			<td>715-839-4972</td>
+		
+
+			<td>Oshkosh PD</td>
+			<td>Oshkosh, Wisconsin</td>
+			<td>920-236-5700</td>
+		
+
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		
+
+			<td>Cheyenne PD</td>
+			<td>Cheyenne, Wyoming</td>
+			<td>307-637-6524</td>
+		
+
+			<td>Casper PD</td>
+			<td>Casper, Wyoming</td>
+			<td>307-235-8278</td>
+		
+
+			<td>Laramie PD</td>
+			<td>Laramie, Wyoming</td>
+			<td>307-721-2526</td>
+		
+
+			<td>Gillette PD</td>
+			<td>Gillette, Wyoming</td>
+			<td>307-682-5155</td>
+		
+
+			<td>Rock Springs PD</td>
+			<td>Rock Springs, Wyoming</td>
+			<td>307-352-1575</td>
+		
+
+			<td>Sheridan PD</td>
+			<td>Sheridan, Wyoming</td>
+			<td>307-672-2413</td>
+		
+
+			<td>Green River PD</td>
+			<td>Green River, Wyoming</td>
+			<td>307-875-1400</td>
+		
+
+			<td>Riverton PD</td>
+			<td>Riverton, Wyoming</td>
+			<td>307-856-4891</td>
+		
+
+			<td>Jackson PD</td>
+			<td>Jackson, Wyoming</td>
+			<td>307-733-2331</td>
+		
